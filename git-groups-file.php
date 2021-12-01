@@ -21,7 +21,7 @@
             <nav>
                 <ol>
                     <li class="activePage"><a href="">Home</a></li>
-                    <li><a href="">About</a></li>
+                    <li><a href="">About us</a></li>
                     <li><a href="">Html</a></li>
                     <li><a href="">CSS</a></li>
                 </ol>
