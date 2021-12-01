@@ -23,7 +23,7 @@
                     <li class="activePage"><a href="">Home</a></li>
                     <li><a href="">About us</a></li>
                     <li><a href="">Html</a></li>
-                    <li><a href="">CSS</a></li>
+                    <li><a href="">CSS Yay</a></li>
                 </ol>
             </nav>
 
